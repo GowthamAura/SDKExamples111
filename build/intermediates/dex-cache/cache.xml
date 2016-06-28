@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="267bc4d92cf22509946e5e9cea9cda970d97a235">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\instant-run_13b1332dd74c7293ed1863434a010f562a1f6045.jar" />
+    </item>
+    <item
+        jar="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_115f933f8564b59add22ceef549ac70f80943e8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gowtham\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_faee2cc313eaf9c6df9bceafd3c2feedf72033d9.jar" />
+    </item>
+    <item
+        jar="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\wikitudesdk\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ae586a2e0bd72e9130723cf862b32516610f7a94">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-wikitudesdk_b34ff66ba64fdc4fd9dacf36014c94d8ec018d67.jar" />
+    </item>
+    <item
+        jar="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="75ebb558c38982beeb0320babbc430d4c54c575b">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0fdad4a3830a7a13a85f216dbfa3342e59ef31bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gowtham\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\core-3.2.0_eff7bc3fb6a989a130b39191b91d2d48278e1ad2.jar" />
+    </item>
+    <item
+        jar="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="G:\AR\New folder\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_e5dda078b9f2bf0e9dc3cfeb40b8deceaa411691.jar" />
+    </item>
+
+</items>

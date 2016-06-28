@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\1VersionControl\\SDKExamples1\\wikitude-sdk-samples\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\1VersionControl\\SDKExamples1\\wikitude-sdk-samples\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AR\\New folder\\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\AR\\New folder\\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\\Examples\\SDKExamples\\wikitude-sdk-samples\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
