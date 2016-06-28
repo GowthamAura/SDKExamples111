@@ -38,7 +38,7 @@ var World = {
 
 			To give the user the possibility to pause the video the AR.VideoDrawable's click trigger is used. If the video is playing and the user is clicking the function pause() is called which then pauses playback. Clicking the video again resumes playback.
 		*/
-		this.video = new AR.VideoDrawable("assets/video.mp4", 1.5, {
+		this.video = new AR.VideoDrawable("assets/video.mp4", 1, {
 			offsetY: playButton.offsetY,
 			onLoaded: function videoLoaded() {
 				playButton.enabled = true;
